@@ -1,3 +1,5 @@
+[![.github/workflows/aws-cd.yml](https://github.com/kelmants/aws-deploy-angular-s3/actions/workflows/aws-cd.yml/badge.svg)](https://github.com/kelmants/aws-deploy-angular-s3/actions/workflows/aws-cd.yml)
+
 # AwsCiCd
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.1.3.
